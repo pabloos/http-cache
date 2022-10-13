@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/allegro/bigcache"
-	cache "github.com/victorspringer/http-cache"
+	cache "github.com/pabloos/http-cache"
 	"github.com/victorspringer/http-cache/adapter/memory"
 )
 
